@@ -1,0 +1,2 @@
+str marca;
+str modelo;
